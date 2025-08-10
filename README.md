@@ -1,4 +1,4 @@
 # Himanshu-Github
-This is the actual repo.
+This is the actual repositary.
 <br>
-Auther-Himasnhu
+Auther-Himasnhu Mandal
